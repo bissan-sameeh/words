@@ -1,16 +1,51 @@
-# words
+📱 Word App – Manage Vocabulary Simply and Efficiently
 
-A new Flutter project.
+A bilingual (Arabic–English) vocabulary app built with Flutter, designed to help users store, manage, and sort word meanings in a clean and efficient way.
 
-## Getting Started
+🚀 Features
 
-This project is a starting point for a Flutter application.
+✍️ Add Words: Store words with their meanings and usage examples.
 
-A few resources to get you started if this is your first Flutter project:
+🗑️ Edit/Delete: Update or remove entries with ease.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+📊 Sort by:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+✅ Word length
+
+✅ Date added
+
+✅ Language
+
+✅ Ascending / Descending order
+
+🗂️ Local Storage: Uses Hive (a fast, lightweight NoSQL database) for storing data offline.
+
+⚙️ State Management: Powered by Cubit from the BLoC package.
+
+🛠️ Tech Stack
+
+Flutter – Cross-platform UI framework
+
+Hive – Local NoSQL database
+
+Cubit – State management (lightweight BLoC variant)
+
+📸 Mockup
+
+ 
+
+📎 LinkedIn Post
+
+Check out the full announcement and feedback thread on LinkedIn:
+🔗 [LinkedIn Post](https://www.linkedin.com/in/bissan-qwaider-691181233/recent-activity/all/)
+
+💬 Feedback
+
+Feel free to open an issue, suggest features, or contribute via pull requests.
+
+Thanks for checking it out! 😊
+
+📌 Tags
+
+#Flutter #Hive #Cubit #Bloc #NoSQL #MobileAppDevelopment #StateManagement #OpenSource #FlutterDev #ArabicFlutter #UIdesign
+
