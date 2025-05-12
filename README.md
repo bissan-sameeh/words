@@ -29,7 +29,7 @@ A bilingual (Arabic–English) vocabulary app built with **Flutter**, designed t
 
 ## 📸 Mockup
 
-![Mockup](words_mockup.png) <!-- Make sure the image is uploaded in your repo root -->
+![Mockup](words_mockup.PNG) <!-- Make sure the image is uploaded in your repo root -->
 
 ---
 
